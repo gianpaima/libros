@@ -1,9 +1,9 @@
-package cap6;
+package cap7;
 
 public class EncuestaEstudiantes {
 
     public static void main(String[] args) {
-        int[] respuestas = {1, 2, 5, 4, 3, 5, 2, 1, 3, 3, 1, 4, 3, 3, 3};
+        int[] respuestas = {1, 2, 5, 4, 3, 5, 2, 1, 3, 3, 1, 4, 3, 3, 3, 2, 3, 3, 2, 14 };
         int[] frecuencia = new int[6];
 
         for (int respuesta = 0; respuesta < respuestas.length; respuesta++)

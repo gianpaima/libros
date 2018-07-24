@@ -1,4 +1,4 @@
-package cap6;
+package cap7;
 
 public class PruebaVarargs {
 

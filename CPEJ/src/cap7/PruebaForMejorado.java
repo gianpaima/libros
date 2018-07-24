@@ -1,4 +1,4 @@
-package cap6;
+package cap7;
 
 public class PruebaForMejorado {
     public static void main(String[] args) {
