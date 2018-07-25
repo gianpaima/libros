@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CPEJ/CPEJ.iml" filepath="$PROJECT_DIR$/CPEJ/CPEJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DesJavaPeru/DesJavaPeru.iml" filepath="$PROJECT_DIR$/DesJavaPeru/DesJavaPeru.iml" />
       <module fileurl="file://$PROJECT_DIR$/libros.iml" filepath="$PROJECT_DIR$/libros.iml" />
     </modules>
   </component>
